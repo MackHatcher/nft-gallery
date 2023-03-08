@@ -29,7 +29,7 @@ Clicking on an NFT card will take you to a detailed view of the NFT, which inclu
 
 ## Lore
 
-It is the year 2223 and you are a scavenger of machine parts in MEGACITY II. It's a tough life, but it's also all you've ever known. 
+It is the year 2223 and you are a scavenger of machine parts in MEGACITY II. It's a tough life, but it's all you've ever known. 
 
 Today you find yourself in an abandoned computer laboratory, which appears to have been picked dry. As you scrounge through the deluge of cracked monitors, dusty keyboards and ancient computer towers, you see something, partially obscured by dusty cobwebs. 
 
