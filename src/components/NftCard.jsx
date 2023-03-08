@@ -13,7 +13,6 @@ function NftCard({ nft, owner, onClick }) {
                     />
                 </div>
             <h4>Owner: {truncateAddress(owner)}</h4>
-
         </div>
     );
 }

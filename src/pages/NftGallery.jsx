@@ -52,9 +52,6 @@ function NftGallery() {
 
     return (
         <>
-            <div>
-
-            </div>
             {!showGlobe &&
                 <div className="globe-icon-container" key="globe-icon-container">
                     <GlobeIcon key="globe-icon" />
