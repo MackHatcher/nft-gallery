@@ -24,7 +24,7 @@ function NftGallery() {
     };
 
     useEffect(() => {
-        // Using goerli as it displays both mainnet and goerli NFTs, in case the user wants to see a 'fuller' list
+        // Using goerli as I have more assets on that chain, so that we see a 'fuller' list
 
         // Strange issue between IDEs, I use WebStorm normally but wanted to open it with VS code just to test it
         // and for some reason VS code is not picking up my .env variables. If you run into this issue on your IDE,
