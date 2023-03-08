@@ -16,9 +16,10 @@ If one doesn't open automatically, open a web browser and navigate to http://loc
 
 Usage
 
-Before doing anything, you'll need to create a .env file in your project's root. This is where the Alchemy API Key is stored. You can check out this video for how to get your first Alchemy API Key: 
+Before doing anything, you'll need to create a .env file in your project's root. This is where the Alchemy API Key is stored. You can check out this [video](https://youtu.be/tfggWxfG9o0) for how to get your first Alchemy API Key. Once you've done that, created a variable in .env, ensuring the variable name begins with the prefix: REACT_APP_[your_unique_variable_name].
 
-[Video](https://youtu.be/tfggWxfG9o0)
+Example: REACT_APP_ALCHEMY_API_KEY=[your_key]
+
 
 Note: Last minute bug found after latest push - seems like VS code is having an issue processing the .env variable, while my normal IDE (Webstorm) has no such issue. The workaround for now is simply hardcoding the API key instead of "process.env.REACT_APP_ALCHEMY_KEY", on lines 32-33 of NftGallery.jsx.
 
