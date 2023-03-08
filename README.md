@@ -15,6 +15,13 @@ Run npm start to start the development server.
 If one doesn't open automatically, open a web browser and navigate to http://localhost:3000 to view the application.
 
 Usage
+
+Before doing anything, you'll need to create a .env file in your project's root. This is where the Alchemy API Key is stored. You can check out this video for how to get your first Alchemy API Key: 
+
+This is [an example](https://youtu.be/tfggWxfG9o0) "Video")
+
+
+
 When you first load the application, you will be greeted by the terminal's "AI". <br /> Once you've said your hello's, you'll be prompted to enter a wallet address. Once entered and submitted, the gallery will appear.
 
 Clicking on an NFT card will take you to a detailed view of the NFT, which includes additional information such as its associated Etherscan and Opensea links. You can also see a larger version of the NFT image and any associated metadata / traits.
