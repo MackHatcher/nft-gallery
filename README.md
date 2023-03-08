@@ -5,10 +5,15 @@ This is a web application for displaying and browsing non-fungible tokens (NFTs)
 To install and run the application, follow these steps:
 
 Clone the repository to your local machine.
+
 Open a terminal window and navigate to the root directory of the project.
+
 Run npm install to install the necessary dependencies.
+
 Run npm start to start the development server.
+
 If one doesn't open automatically, open a web browser and navigate to http://localhost:3000 to view the application.
+
 Usage
 When you first load the application, you will be greeted by the terminal's "AI". <br /> Once you've said your hello's, you'll be prompted to enter a wallet address. Once entered and submitted, the gallery will appear.
 
