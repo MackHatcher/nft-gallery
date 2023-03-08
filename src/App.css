@@ -6,7 +6,7 @@
 
 .dashboard {
   position: absolute;
-  top: 40%;
+  top: 45%;
   left: 50%;
   transform: translate(-50%, -50%);
   opacity: 0;
@@ -148,7 +148,7 @@ input:focus, textarea:focus {
 .globe {
   position: absolute;
   top: 15%;
-  left: 72%;
+  left: 62%;
   width: 80%;
   height: 80%;
   margin: 0 auto;
@@ -293,7 +293,7 @@ span{
 .wallet-input-clear {
   position: fixed;
   top: 5px;
-  left: 21.75%;
+  left: 24.5%;
   width: 25px;
   height: 25px;
   font-size: 15px;

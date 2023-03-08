@@ -25,6 +25,11 @@ function NftGallery() {
 
     useEffect(() => {
         // Using goerli as it displays both mainnet and goerli NFTs, in case the user wants to see a 'fuller' list
+
+        // Strange issue between IDEs, I use WebStorm normally but wanted to open it with VS code just to test it
+        // and for some reason VS code is not picking up my .env variables. If you run into this issue on your IDE,
+        // please just uncomment the following line 32 and use it instead of line 33.
+        // const endpoint = 'https://eth-goerli.alchemyapi.io/v2/Xco_0LwaEaN5TxQFa-LzleqNxn-E0Dz1';
         const endpoint = `https://eth-goerli.alchemyapi.io/v2/${process.env.REACT_APP_ALCHEMY_API_KEY}`;
         const fetchNfts = async (owner, setNfts) => {
             if (owner) {
