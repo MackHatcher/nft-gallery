@@ -18,7 +18,7 @@ Usage
 
 Before doing anything, you'll need to create a .env file in your project's root. This is where the Alchemy API Key is stored. You can check out this video for how to get your first Alchemy API Key: 
 
-This is [an example](https://youtu.be/tfggWxfG9o0) "Video")
+[Video](https://youtu.be/tfggWxfG9o0)
 
 
 
