@@ -20,7 +20,7 @@ Before doing anything, you'll need to create a .env file in your project's root.
 
 [Video](https://youtu.be/tfggWxfG9o0)
 
-
+Note: Last minute bug found after latest push - seems like VS code is having an issue processing the .env variable, while my normal IDE (Webstorm) has no such issue. The workaround for now is simply hardcoding the API key instead of "process.env.REACT_APP_ALCHEMY_KEY", on lines 32-33 of NftGallery.jsx.
 
 When you first load the application, you will be greeted by the terminal's "AI". <br /> Once you've said your hello's, you'll be prompted to enter a wallet address. Once entered and submitted, the gallery will appear.
 
